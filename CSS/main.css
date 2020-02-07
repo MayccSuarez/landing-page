@@ -22,3 +22,13 @@
     height: 100%;
     width: 100%;
 }
+
+.btn-purple {
+    background-color: #7158e2;
+    color: white;
+}
+
+.btn-purple:hover {
+    background-color: #7d5fff;
+    color: white;
+}
