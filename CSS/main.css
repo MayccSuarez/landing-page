@@ -6,3 +6,19 @@
 .navbar .nav-item .nav-link {
     color: #fff;
 }
+
+.main-header {
+    position: relative;
+    background: url(../img/background.jpg);
+    min-height: 700px;
+    background-size: cover;
+}
+
+.background-overlay {
+    position: absolute;
+    background: rgba(165, 94, 234, .80);
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
