@@ -32,3 +32,11 @@
     background-color: #7d5fff;
     color: white;
 }
+
+.bg-purple-team {
+    background-color: #7158e2;
+}
+
+.form-control, .btn {
+    border-radius: 0px;
+}
